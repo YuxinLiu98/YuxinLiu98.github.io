@@ -1,0 +1,23 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+Here's some text. I like the internet. I use [google](https://www.google.com/)
+
+Ted.
+![](images/ted.jpg)
+
+```{r}
+library(tidyverse)
+```
+
+direct link to about page 
+[about](about.html) 
