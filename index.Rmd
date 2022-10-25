@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: cosmo
 ---
 
 # This is Jeff's awesome website
@@ -21,3 +21,5 @@ library(tidyverse)
 
 direct link to about page 
 [about](about.html) 
+
+[plotly](plotly.html) 
